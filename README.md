@@ -6,9 +6,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahhzze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahhzze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahhzze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahhzze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -29,10 +29,6 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/p0U7QrmNuiL7Eq94VR" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leagueoflegends-tft-teamfight-tactics-dragonlands-p0U7QrmNuiL7Eq94VR">via GIPHY</a></p>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/yahhzze/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,11 +40,16 @@
   <a href="devcarlosassis@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
+  <img align="right" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJjanU3eWVyMDQ1ZWJwdTB0bXRvYXBoOXVrNm16c2Fxd2dnNWkyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p0U7QrmNuiL7Eq94VR/giphy.gif"/>
 </div>
 
 ###
 
-<div align="center">
+
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/8wlu50y6d7o5ytu8f62v2io7x">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=8wlu50y6d7o5ytu8f62v2io7x&count=6&unique=false" alt="Spotify recently played"  />
   </a>
