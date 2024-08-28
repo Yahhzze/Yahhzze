@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/leagueoflegends-tft-teamfight-tactics-dragonlands-p0U7QrmNuiL7Eq94VR"  />
+<iframe src="https://giphy.com/embed/p0U7QrmNuiL7Eq94VR" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leagueoflegends-tft-teamfight-tactics-dragonlands-p0U7QrmNuiL7Eq94VR">via GIPHY</a></p>
 
 ###
 
@@ -45,12 +45,6 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yahhzze/yahhzze/output/snake.svg" alt="Snake animation" />
 
 ###
 
