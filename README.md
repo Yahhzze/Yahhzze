@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm 22 years old and I'm passionate about programming. I started this passion through video games, always with a lot of curiosity about how everything was created, each movement, each setting, each menu, the story.<br><br>I'm studying HTML5, CSS3, Javascript, Typescript, Python, Java and PHP.</p>
+<p align="left">I'm 23 years old and I'm passionate about programming. I started this passion through video games, always with a lot of curiosity about how everything was created, each movement, each setting, each menu, the story.<br><br>I'm studying HTML5, CSS3, Javascript, Typescript, Python, Java and PHP.</p>
 
 ###
 
